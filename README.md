@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pelumi Tayo-Orisdare</h1>
 <h3 align="center">I am a passionate full stack developer.</h3>
 
-- 👨‍💻 All of my projects are available at my [Personal Website](pelumitayo.com)
+<img align="right" alt="coding" width="400" src="https://compote.slate.com/images/306254c7-594a-4db5-8f18-48ba6020a771.gif">
 
-- 📫 How to reach me **pelumi.tayoorisadare@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 📄 Know about my experiences through my [Resume](pelumitayo.com/Tayo-Orisadare_Pelumi.pdf)
-
-- ⚡ Fun fact **I have an odd sleep schedule.**
+  - 👨‍💻 All of my projects are available at my [Personal Website](pelumitayo.com)
+  
+  - 📫 How to reach me **pelumi.tayoorisadare@gmail.com**
+  
+  - 📄 Know about my experiences through my [Resume](pelumitayo.com/Tayo-Orisadare_Pelumi.pdf)
+  
+  - ⚡ Fun fact **I have an odd sleep schedule.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelumitayo&" alt="pelumitayo" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pelumitayo" alt="pelumitayo" /></a> </p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pelumi Tayo-Orisdare</h1>
+<h1 align="center">Hi 👋, I'm Pelumi Tayo-Orisadare</h1>
 <h3 align="center">I am a passionate full stack developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://compote.slate.com/images/306254c7-594a-4db5-8f18-48ba6020a771.gif">

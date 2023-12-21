@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-  - 👨‍💻 All of my projects are available at my [Personal Website](pelumitayo.com)
+  - 👨‍💻 All of my projects are available at my [Personal Website](https://pelumitayo.com)
   
   - 📫 How to reach me **pelumi.tayoorisadare@gmail.com**
   
-  - 📄 Know about my experiences through my [Resume](pelumitayo.com/Tayo-Orisadare_Pelumi.pdf)
+  - 📄 Know about my experiences through my [Resume](https://pelumitayo.com/Tayo-Orisadare_Pelumi.pdf)
   
   - ⚡ Fun fact **I have an odd sleep schedule.**
 
